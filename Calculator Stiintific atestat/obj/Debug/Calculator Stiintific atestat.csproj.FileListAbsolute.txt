@@ -1,0 +1,22 @@
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.exe.config
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.exe
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.pdb
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csprojAssemblyReference.cache
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.Form1.resources
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.Properties.Resources.resources
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csproj.GenerateResource.cache
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csproj.CoreCompileInputs.cache
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.exe
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.pdb
+C:\Users\dariu\source\repos\Calculator Stiintific atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.trigonometrie.resources
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.exe.config
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.exe
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\bin\Debug\Calculator Stiintific atestat.pdb
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csprojAssemblyReference.cache
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.Form1.resources
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.Properties.Resources.resources
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator_Stiintific_atestat.trigonometrie.resources
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csproj.GenerateResource.cache
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.exe
+C:\Users\dariu\Desktop\info atestat\Calculator Stiintific atestat\obj\Debug\Calculator Stiintific atestat.pdb
